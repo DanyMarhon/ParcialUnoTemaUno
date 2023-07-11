@@ -1,0 +1,8 @@
+C:\Users\danym\Desktop\VisualProgramación\PrimerParcialDanielMarhon\bin\Debug\PrimerParcialDanielMarhon.exe.config
+C:\Users\danym\Desktop\VisualProgramación\PrimerParcialDanielMarhon\bin\Debug\PrimerParcialDanielMarhon.exe
+C:\Users\danym\Desktop\VisualProgramación\PrimerParcialDanielMarhon\bin\Debug\PrimerParcialDanielMarhon.pdb
+C:\Users\danym\Desktop\VisualProgramación\PrimerParcialDanielMarhon\obj\Debug\PrimerParcialDanielMarhon.csproj.AssemblyReference.cache
+C:\Users\danym\Desktop\VisualProgramación\PrimerParcialDanielMarhon\obj\Debug\PrimerParcialDanielMarhon.csproj.SuggestedBindingRedirects.cache
+C:\Users\danym\Desktop\VisualProgramación\PrimerParcialDanielMarhon\obj\Debug\PrimerParcialDanielMarhon.csproj.CoreCompileInputs.cache
+C:\Users\danym\Desktop\VisualProgramación\PrimerParcialDanielMarhon\obj\Debug\PrimerParcialDanielMarhon.exe
+C:\Users\danym\Desktop\VisualProgramación\PrimerParcialDanielMarhon\obj\Debug\PrimerParcialDanielMarhon.pdb
